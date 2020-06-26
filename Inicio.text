@@ -1,0 +1,10 @@
+
+git init // si no se ha utilizado y se a iniciar el git
+WORKING DIRECTORY 
+
+//git add ( Pasar archivos de WORKING DIRECTORY  a STAGING AREA)
+
+STAGING AREA 
+//git commit 8 Pasar de STAGING AREA a REPOSITORY)
+
+REPOSITORY
