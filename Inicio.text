@@ -8,3 +8,19 @@ STAGING AREA
 //git commit 8 Pasar de STAGING AREA a REPOSITORY)
 
 REPOSITORY
+
+
+rut proyecto:/
+git init
+
+git status // ver el estado de los archivos pendientes
+
+Agregar los archivos al area de trabajo
+(use "git add <file>..." to include in what will be committed)
+        Inicio.text
+        app.js
+        inicio.html
+
+
+git status
+git commit
